@@ -56,15 +56,14 @@
 - Hover effects for links.
 
 ### 3. **Flight Booking Form**
-- Center the form with `max-w-lg mx-auto`.
-- Add `shadow-lg rounded-lg` for a card-like UI.
+- Center the form.
+- Add `shadows and border radius` for a card-like UI.
 - Use `grid` for input field alignment.
-- Style the search button with `bg-blue-600 text-white`.
+- Style the search button with `bg blue, text white`.
 
 ### 4. **Footer**
 - Flexbox for sections.
-- Use `text-gray-400` for muted text.
-- Add `hover:underline` for links.
+- Use `gray` for muted text.
 
 ---
 
